@@ -4,6 +4,8 @@
 
 The refactoring of this webpage intends to ensure the website's accessibility features, provide a detailed description of the website's title, and ensure that the HTML's code elements are concise and follow logical structuring independent of the page’s styling.
 
+[Click here to visit the website](https://marcusmr15.github.io/horiseon-refactoring/)
+
 ## Installation
 
 N/A
